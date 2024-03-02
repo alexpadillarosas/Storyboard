@@ -10,5 +10,13 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "YellowVC.unwindToYellowVC(_:):YellowVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unwindSegue.destination">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>
